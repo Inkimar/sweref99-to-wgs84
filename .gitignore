@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# HTML
+README.html
+
 # Session Data files
 .RData
 
