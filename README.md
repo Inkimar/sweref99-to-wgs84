@@ -1,3 +1,8 @@
+# To transform SWEREF99 To WGS84 (epsg:3006)
+
+First version:
+1. input-file : .csv-file (see the directory 'example_input-file')
+2. output-file: .csv-file (see the directory 'example_output-file')
 
 # Operating System
 
@@ -13,7 +18,7 @@ Description:	Linux Mint 17.3 Rosa
 6. sudo apt install libproj-dev
 7. apt search udunits2
 8. sudo apt install libudunits2-dev
-9. sudo apt install gfortra
+9. sudo apt install gfortran
 
 # R
 R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
