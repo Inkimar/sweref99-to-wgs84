@@ -1,11 +1,4 @@
 
-# R
-R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
-
-# RStudio
-
-Version 0.99.896 – © 2009-2016 RStudio, Inc.
-
 # Operating System
 
 Description:	Linux Mint 17.3 Rosa
@@ -21,4 +14,13 @@ Description:	Linux Mint 17.3 Rosa
 7. apt search udunits2
 8. sudo apt install libudunits2-dev
 9. sudo apt install gfortra
+
+# R
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+
+# RStudio
+
+Version 0.99.896 – © 2009-2016 RStudio, Inc.
+
+
 
